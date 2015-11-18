@@ -1,0 +1,19 @@
+{
+  "name": "ssh-transport-stream",
+  "version": "1.0.0",
+  "description": "run a command on the other side of an ssh connection and get back results",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/ssh-transport-stream.git"
+  },
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karissa/ssh-transport-stream/issues"
+  },
+  "homepage": "https://github.com/karissa/ssh-transport-stream#readme"
+}
